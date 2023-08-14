@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GoTechTest</string>
+    <string name="your_answer">Your answer</string>
+    <string name="other">Other:</string>
+    <string name="gotech_questionnaire_title">GoTech Questionnaire</string>
+    <string name="gotech_questionnaire_subtitle">Show me what you can do!</string>
+    <string name="required">Required *</string>
+    <string name="submit_text">Submit</string>
+    <string name="error_image">error image</string>
+    <string name="error_sign">*</string>
+    
+    <string name="save_to_server_done">Successfully saved to server</string>
+    <string name="save_to_server_error">Failed saved to server</string>
+</resources>
